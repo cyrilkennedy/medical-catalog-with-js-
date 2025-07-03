@@ -1,0 +1,15 @@
+section{
+    border: 2px solid black ;
+    padding: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.inner{
+    border: 3px solid red;
+padding: 8px;
+margin: 10px 10px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+flex: 1;
+}
